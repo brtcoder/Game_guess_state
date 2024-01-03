@@ -1,4 +1,5 @@
-Name	Abbr	Cap	LRGST	Pop	Area	Land	Water	Reps	Ratification or admission
+
+StateName	Abbr	Capital	Lrgst	Population	Area	LandArea	WaterArea	Reps	Ratification or admission
 Alabama	AL	Montgomery	Huntsville	5,024,279	135,767	131,171	4,597	7	14/12/1819
 Alaska	AK	Juneau	Anchorage	733,391	1,723,337	1,477,953	245,384	1	03/01/1959
 Arizona	AZ	Phoenix		7,151,502	295,234	294,207	1,026	9	14/02/1912
